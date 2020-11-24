@@ -3,8 +3,8 @@
 "description": "N/A",
 "require": {
 "php": "~5.5.0|~5.6.0|~7.0.0",
-"../../../../../vendor/magento/theme-frontend-blank": "100.0.*",
-"../../../../../vendor/magento/framework": "100.0.*",
+"magento/theme-frontend-blank": "100.0.*",
+"magento/framework": "100.0.*",
 "nuev_vendor/nuevo_tema": "1.0.0"
 },
 "type": "magento2-theme",
