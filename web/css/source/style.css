@@ -1,0 +1,25 @@
+.customer-account-create fieldset.fieldset{
+        float:left;
+        margin-right:60px;
+    }
+.customer-account-create form.form-create-account label{
+        display:block;
+        width:100%;
+        float:none;
+    }
+.customer-account-create button.action{
+    background-color: green;
+    color:black;
+}
+
+@media screen and (max-width: 768px) {
+    .customer-account-create fieldset.fieldset{
+        float:none;
+        margin-right: 0;
+    }
+    .customer-account-create button.action{
+        display:block !important;
+    }
+}
+
+
