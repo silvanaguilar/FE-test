@@ -7,6 +7,7 @@
 "magento/framework": "100.0.*",
 "nuev_vendor/nuevo_tema": "1.0.0"
 },
+"minimum-stability": "dev",
 "type": "magento2-theme",
 "version": "100.0.1",
 "license": [
